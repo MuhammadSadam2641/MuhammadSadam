@@ -1,7 +1,7 @@
 # MuhammadSadam
 This is my first repostry.
 <br>
-Developer Muhammad Sadam.
+Developer Name Muhammad Sadam.
 <br>
-Designer Danish Ali sheroz muzammal.
+Designer Danish Name Ali sheroz.
 
